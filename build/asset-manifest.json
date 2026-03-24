@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.603b3727.css",
-    "main.js": "/static/js/main.aa2dd4b7.js",
+    "main.css": "/static/css/main.c025bc65.css",
+    "main.js": "/static/js/main.987548d9.js",
     "static/js/223.794a80f6.chunk.js": "/static/js/223.794a80f6.chunk.js",
     "static/js/450.412219e1.chunk.js": "/static/js/450.412219e1.chunk.js",
     "static/js/453.3e6ee6e3.chunk.js": "/static/js/453.3e6ee6e3.chunk.js",
     "static/media/ned-logo.png": "/static/media/ned-logo.121e3d666aa9c1db6dea.png",
     "index.html": "/index.html",
-    "main.603b3727.css.map": "/static/css/main.603b3727.css.map",
-    "main.aa2dd4b7.js.map": "/static/js/main.aa2dd4b7.js.map",
+    "main.c025bc65.css.map": "/static/css/main.c025bc65.css.map",
+    "main.987548d9.js.map": "/static/js/main.987548d9.js.map",
     "223.794a80f6.chunk.js.map": "/static/js/223.794a80f6.chunk.js.map",
     "450.412219e1.chunk.js.map": "/static/js/450.412219e1.chunk.js.map",
     "453.3e6ee6e3.chunk.js.map": "/static/js/453.3e6ee6e3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.603b3727.css",
-    "static/js/main.aa2dd4b7.js"
+    "static/css/main.c025bc65.css",
+    "static/js/main.987548d9.js"
   ]
 }
